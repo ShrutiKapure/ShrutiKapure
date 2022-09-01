@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shruti Kapure</h1>
 
 - 👨‍💻 My Portfolio [portfolio] 
-- 📃 View [] CV
+- 📃 View [CV.docx](https://github.com/ShrutiKapure/ShrutiKapure/files/9468844/CV.docx)CV
 - 📧 How to reach me **shrutikapure11@gmail.com**
 
 <h3 align="left">Connect with me</h3>
